@@ -1,0 +1,5 @@
+discord.py
+google-generativeai
+edge-tts
+moviepy
+imageio-ffmpeg
